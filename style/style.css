@@ -1,0 +1,8 @@
+input {
+    /* margin: 30px; */
+    width: 1000px;
+}
+
+.video-detail, .list-group {
+    margin-top:30px;
+}
